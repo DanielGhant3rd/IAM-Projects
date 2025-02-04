@@ -1,6 +1,6 @@
 <h1> <p align="center"> Security Implementations Creating & Automating New Hires Onboarding </h1>
 
- ### [Instagram Walthrough](https://www.instagram.com/primetimeskillz_/)
+ ### [Instagram Walthrough](https://www.instagram.com/techbased_/)
 
 <h2>Description</h2>
 Discription of Microsoft Office365, Azure Power Automate and User Security Implemnentations
@@ -33,7 +33,7 @@ Deploy Association After Onboarding New Employees <br/>
 
 <p align="center">
 Power Automate Onboarding with a Custom Microsoft Forms Document <br/>
-<img src="https://imgur.com/qqXnXul" height="80%" width="80%" alt="Power Automate"/>
+<img src="https://imgur.com/a/OIWmCdo" height="80%" width="80%" alt="Power Automate"/>
  <img src=" " height="80%" width="80%" alt="Power Automate 2"/>
 <br />
 
